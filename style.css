@@ -209,11 +209,11 @@ body {
   color: #fff;
   font-family: "Orelo-sw-db", serif;
   text-align: center;
-  margin-top: 104%;
+  margin-top: 100%;
 }
 
 .bf-h1{
-  font-size: clamp(20px, 6vw, 30px);
+  font-size: clamp(20px, 4vw, 30px);
 }
 
 @font-face {
